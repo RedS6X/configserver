@@ -1,5 +1,5 @@
 server:
   port: 8081
 some:
-  value: 50
-  value1: 605
+  value: 500
+  value1: 50
