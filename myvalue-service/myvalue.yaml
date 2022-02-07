@@ -2,7 +2,7 @@ server:
   port: 8081
 some:
   value: valor del servidor
-  value: valor del servidor
-  value: valor del servidor
-  value: valor del servidor
-  value: valor del servidor
+  value1: valor del servidor
+  value2: valor del servidor
+  value3: valor del servidor
+  value4: valor del servidor
